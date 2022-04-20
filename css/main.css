@@ -2353,7 +2353,7 @@ header .logo a {
 	border-color: #FF0077;
 	color: #FFFFFF;
 }
-#contact button.submitform {
+#contact input[type="submit"]{
 	font-size: 1.5rem;
 	display: block;
 	letter-spacing: .2rem;
